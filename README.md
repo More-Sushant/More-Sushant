@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Sushant+More;I'm+Computer+Engineering+Student)](https://git.io/typing-svg)
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
 
 <br>
 
 <div align="center" style="margin-bottom:"200px"">
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-With-Sushant&layout=compact&theme=radical" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=More-Sushant&layout=compact&theme=radical" />
  <br> <br>
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Code-With-Sushant&theme=radical&show_icons=true" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=More-Sushant&theme=radical&show_icons=true" />
 </div>
 
 
